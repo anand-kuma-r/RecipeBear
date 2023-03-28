@@ -1,0 +1,9 @@
+.home-wrapper {
+    background-color: #131519;
+    min-height: 100vh;
+}
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #131519;
+  }
