@@ -3,6 +3,8 @@
     align-items: center;
     background-color: aliceblue;
     min-height: 100px;
+    position: sticky;
+    z-index: 1000;
 }
 button.logo-button {
     padding: 0;

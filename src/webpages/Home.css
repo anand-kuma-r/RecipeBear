@@ -1,9 +1,19 @@
 .home-wrapper {
     background-color: #131519;
     min-height: 100vh;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-gap: 1rem;
 }
 body {
     margin: 0;
     padding: 0;
     background-color: #131519;
-  }
+}
+.recipe-tiles-container {
+    background-color: #131519;
+}
+  
+.my-fridge-container {
+    background-color: aliceblue;
+}
