@@ -5,6 +5,7 @@ function RecipeGrid({ recipes }) {
     const recipeTiles = recipes.map((recipe, index) => (
       <RecipeTile
         key={index}
+        id={recipe._id}
         imgUrl={recipe.imgUrl}
         title={recipe.title}
         ingredients={recipe.ingredients}

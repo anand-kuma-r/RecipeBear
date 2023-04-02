@@ -12,6 +12,7 @@ body {
 }
 .recipe-tiles-container {
     background-color: #131519;
+    border-radius: 15px;
 }
   
 .my-fridge-container {
